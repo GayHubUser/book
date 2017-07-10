@@ -1,6 +1,3 @@
 # book
 
-持续收集。
-
-欢迎 star 。
-
+懒得clone，当然是选择fork了
